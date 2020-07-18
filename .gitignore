@@ -1,0 +1,8 @@
+/bin/
+.idea/
+/test-output/
+/build/
+/target/
+*.log
+/.metadata/
+*iml
